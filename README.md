@@ -1,5 +1,5 @@
 
-#lien google pour telecharger données allocine utilisés pour l'entrainement:
+#lien google pour telecharger données allociné utilisées pour l'entrainement:
 https://drive.google.com/drive/folders/1fiul6DrqkYG2tWdsF9wEvS86MfwokVJq
 
 
