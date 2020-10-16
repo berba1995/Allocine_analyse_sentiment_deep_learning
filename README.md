@@ -5,7 +5,7 @@ https://drive.google.com/drive/folders/1fiul6DrqkYG2tWdsF9wEvS86MfwokVJq
 
 #l'objectif ici  de mon travail est de mettre en place un modèle pour  prédire le sentiment d'un avis allocine(positif ou négatif )
 
-pour se faire je disposes d'avis allociné que j'ai scrapé(note,avis) : 104001 lignes
+pour se faire je dispose d'avis allociné que j'ai scrapé(note,avis) : 104001 lignes
 
 #les notes allociné varient entre :([0.5, 1. , 1.5, 3. , 4. , 3.5, 2.5, 2. , 5. , 4.5])
 
